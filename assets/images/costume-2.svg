@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <defs>
+    <linearGradient id="bgGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff98d0" />
+      <stop offset="100%" stop-color="#ff2e85" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bgGrad2)" rx="36" />
+  <g fill="#fff6ff" stroke="#ff5aae" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" transform="translate(70,50)">
+    <path d="M130 0c32 0 58 26 58 58v24l46 104H24l46-104V58C70 26 98 0 130 0z" fill="#ffe9fb" />
+    <path d="M100 12L60 74h140L160 12" fill="#ffc4ef" />
+    <path d="M84 128l-28 74h148l-28-74" fill="#ffb0e8" />
+    <circle cx="130" cy="50" r="24" fill="#fff" />
+    <path d="M90 164h80l-20 36H110z" fill="#fff1fb" />
+  </g>
+  <text x="200" y="270" text-anchor="middle" font-family="'Baloo 2', 'Comic Sans MS', cursive" font-size="36" fill="#fff">Образ "Супергерой"</text>
+</svg>

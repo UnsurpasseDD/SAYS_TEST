@@ -1,0 +1,20 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="pink" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(50 40) rotate(45) scale(220)">
+      <stop stop-color="#FF7CC6" />
+      <stop offset="1" stop-color="#FF4EA2" />
+    </radialGradient>
+    <linearGradient id="gift" x1="40" y1="50" x2="160" y2="150" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#623A91" />
+      <stop offset="1" stop-color="#3A1F6E" />
+    </linearGradient>
+  </defs>
+  <circle cx="100" cy="100" r="92" fill="url(#pink)" />
+  <path d="M50 72c18-6 42-10 50-10s32 4 50 10" stroke="rgba(255,255,255,0.35)" stroke-width="12" stroke-linecap="round" />
+  <rect x="55" y="80" width="90" height="70" rx="16" fill="white" stroke="url(#gift)" stroke-width="10" />
+  <path d="M100 150V72" stroke="url(#gift)" stroke-width="10" stroke-linecap="round" />
+  <path d="M70 45c-12 0-22 7-22 18 0 12 13 20 28 20 16 0 34-10 46-18 12 8 30 18 46 18 15 0 28-8 28-20 0-11-10-18-22-18-14 0-30 10-40 18-10-8-26-18-40-18z" fill="white" stroke="url(#gift)" stroke-width="10" stroke-linejoin="round" />
+  <circle cx="78" cy="55" r="16" fill="url(#pink)" />
+  <circle cx="122" cy="55" r="16" fill="url(#pink)" />
+  <text x="100" y="175" text-anchor="middle" font-family="'Fredoka', 'Arial Rounded MT Bold', sans-serif" font-size="40" font-weight="700" fill="#FFE93A">САЮС</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff8bc6" />
+      <stop offset="100%" stop-color="#ff479b" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bgGrad)" rx="36" />
+  <g fill="#fff6ff" stroke="#f83d9c" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" transform="translate(90,60)">
+    <path d="M110 0c32 0 58 26 58 58v62l34 76H18l34-76V58C52 26 78 0 110 0z" fill="#ffe7f7" />
+    <path d="M92 10L60 58h100L128 10" fill="#ffd0f1" />
+    <path d="M80 112l-20 80h100l-20-80" fill="#ffc2eb" />
+    <circle cx="110" cy="48" r="20" fill="#fff" />
+  </g>
+  <text x="200" y="270" text-anchor="middle" font-family="'Baloo 2', 'Comic Sans MS', cursive" font-size="36" fill="#fff">Образ "Принцесса"</text>
+</svg>
